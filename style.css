@@ -1,0 +1,16 @@
+body {
+    font-family: DejaVu Sans Mono, monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: azure;
+}
+
+img {
+    height: 250px
+}
+
+a {
+    font-weight: bold;
+}
